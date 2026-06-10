@@ -1,0 +1,6 @@
+{
+  "name": "ChainWatch Early Ecosystem Monitor",
+  "description": "An interactive monitoring terminal for early-stage L1/L2 blockchain ecosystems, featuring real-time telemetry simulation, AI-powered architectural and risk analysis, custom health alerts, and structural comparative diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
