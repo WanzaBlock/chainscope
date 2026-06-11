@@ -488,6 +488,7 @@ export default function App() {
                 {activeTab === "telemetry" && (
                   <MetricCharts
                     chain={selectedChain}
+                    allChains={chains}
                     isSimulating={isSimulating}
                     onToggleSimulation={() => setIsSimulating(!isSimulating)}
                     onTriggerSpike={handleTriggerSpike}
